@@ -12,3 +12,4 @@ Para enfocarlo como crowdsourcing en la primera de las opciones propondría una 
 
 La segunda de las opciones para enfocarlo como crowdsourcing, podría tener un enfoque de “What else?”, que podría ser el eslogan, ya que mi propuesta se basa en un electrodoméstico que si bien tiene su app que interactua con un asistente virtual, sensores, cámara, listas de datos y alarmas por ejemplo, sus funciones van en aumento. Se podría integrar con la aplicación del tiempo y ofrecernos cocinar un plato caliente con los ingredientes que tenemos en el frigorífico, o un gazpacho si hace calor. Otra opción es vincularla con la web del supermercado y recomendarnos comprar tomates porque están bien de precio o alimentos de proximidad porque tienen menos impacto medioambiental, etc.
 
+Hacer el ejercicio de utilizar las "gafas de MAnovich" nos permite descubrir aspectos cotidianos que nos pasan desapercibidos si no nos paramos un momento a observar.

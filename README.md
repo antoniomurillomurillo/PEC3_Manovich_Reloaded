@@ -23,7 +23,7 @@ Los dos ejemplos han consensuados con el profesor.
   #
 
 
-### Just Dance de Nintendo Wii
+### •  Just Dance de Nintendo Wii
 
 
 

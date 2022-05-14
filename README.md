@@ -36,9 +36,9 @@ El el caso del Just Dance para Wii, con el nuevo mando y el software que proporc
 
 Otro dato a tener en cuenta es la forma de entrada de datos habiendo conseguido que el nuevo mando funcione como dispositivo señalador para así con el teclado en pantalla se puedan entrar datos alfanuméricos y se puedan hacer elecciones como el avatar, formas de visualización y configuración en general.
 
-El apartado de los juegos en línea también es un dato a tener en cuenta un modelo de hibridación del juego tradicional con el software de comunicaciones que hasta entonces no tenía ancho de banda suficiente para ser ágil para poder jugar en línea.
+El apartado de los juegos en línea también es un dato a tener en cuenta un modelo de hibridación del juego tradicional con el software de comunicaciones que hasta entonces no tenía ancho de banda suficiente para ser ágil para poder jugar en línea, de igual forma se podian comprar juegos online y almacenar lo datos de las partidas en los servidores de Nintendo, lo que pasaría a llamarse con el paso de los años la nube.
 
-El control remoto contiene un acelerómetro tridimensional basado en MEMS, junto con sensores de detección de infrarrojos ubicados en el extremo más alejado del controlador.El accesorio Wii MotionPlus se conecta al puerto en la base del Wii Remote y aumenta los sensores existentes con giroscopios para permitir una detección de movimiento más fina.
+El control remoto contiene un acelerómetro tridimensional, junto con sensores de detección de infrarrojos ubicados en el extremo más alejado del controlador.El accesorio Wii MotionPlus se conecta al puerto en la base del Wii Remote y aumenta los sensores existentes con giroscopios para permitir una detección de movimiento más fina.
 
 Por todo lo descrito considero un caso de éxito de la hibridación.
 

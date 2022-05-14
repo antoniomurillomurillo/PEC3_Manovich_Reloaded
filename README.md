@@ -63,7 +63,7 @@ Gracias a las cámaras integradas en su interior (en los modelos que cuenten con
 [![frigo pantalla](https://camo.githubusercontent.com/4af56a65b700ba1747cce5cb7b06a6419f7138f7c13cc9789fb780aaf65c72fc/68747470733a2f2f656c6f75747075742e636f6d2f6170702f75706c6f6164732d656c6f75747075742e636f6d2f323032312f30342f667269676f72696669636f732d696e74656c6967656e7465732d332e6a7067)](https://camo.githubusercontent.com/4af56a65b700ba1747cce5cb7b06a6419f7138f7c13cc9789fb780aaf65c72fc/68747470733a2f2f656c6f75747075742e636f6d2f6170702f75706c6f6164732d656c6f75747075742e636f6d2f323032312f30342f667269676f72696669636f732d696e74656c6967656e7465732d332e6a7067 "Frigorífico con asistente y pantalla incorporados")
 
 
-[***Haz click aquí para ver un video explicativo de las funciones del frifico inteligente de Samsung***](https://youtu.be/JJcPtPKCcyw "Video del frigorífico inteligente de Samsung")
+[***Haz click aquí para ver un video explicativo de las funciones del frigorífico inteligente de Samsung***](https://youtu.be/JJcPtPKCcyw "Video del frigorífico inteligente de Samsung")
 
 Por todo lo descrito considero un caso de éxito de la hibridación, el internet de las cosas ha hecho nacer este ejemplo de hibridación que nos facilitará nuestra vida cada día un poco mas.
 

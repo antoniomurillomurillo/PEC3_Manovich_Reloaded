@@ -36,8 +36,8 @@ Los dos ejemplos han consensuados con el profesor.
 
 
 
-
-
+Just dance Wii es un juego interactivo creado por Nintendo para su consola Wii, entre otras, su característica más distintiva es su mando inalámbrico,el Wii Remote, el cual puede usarse como un dispositido de mano
+La característica más distintiva de la consola es su mando inalámbrico, el Wii Remote, el cual puede usarse como un dispositivo de mano con el que se puede apuntar, además de poder detectar movimientos en un plano tridimensional. Otra de sus peculiaridades era el servicio WiiConnect24, que permitía recibir mensajes y actualizaciones a través de Internet en modo de espera.14​ Adicionalmente, la consola puede sincronizarse con la portátil Nintendo DS, lo cual permite que Wii aproveche la pantalla táctil de la Nintendo DS como mando alternativo.
 
 
 

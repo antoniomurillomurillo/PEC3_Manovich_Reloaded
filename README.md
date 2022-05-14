@@ -80,3 +80,6 @@ Wikipedia en diferentes idiomas y artículos como por ejemplo  [https://en.wikip
 [https://www.electrodomesticosinteligentes.net/electrodomesticos-inteligentes/frigorificos-inteligentes/](https://www.electrodomesticosinteligentes.net/electrodomesticos-inteligentes/frigorificos-inteligentes/)
 
 [https://eloutput.com/productos/hogar/frigorifico-nevera-inteligente/](https://eloutput.com/productos/hogar/frigorifico-nevera-inteligente/)Written with [StackEdit](https://stackedit.io/).
+
+https://www.samsung.com/es/refrigerators/side-by-side/rs8000nc-side-by-side-refrigerator-with-family-hub-rs8000nc-side-by-side-refrigerator-with-family-hub-614l-silver-rs6ha8880s9-ef/
+

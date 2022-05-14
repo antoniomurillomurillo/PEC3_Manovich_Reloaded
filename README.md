@@ -27,7 +27,7 @@ Just dance Wii es un juego interactivo creado por Nintendo para su consola Wii, 
 
 [![](https://camo.githubusercontent.com/745edd7fe26791ee61a1f2dceeedb8a828e1e01b3eda6393dad34815b120c27e/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f5674537a414d6c486170492f687164656661756c742e6a7067)](https://camo.githubusercontent.com/745edd7fe26791ee61a1f2dceeedb8a828e1e01b3eda6393dad34815b120c27e/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f5674537a414d6c486170492f687164656661756c742e6a7067 "Pantalla del juego Just Dance")
 
-[Haz click aquí para disfrutar de una partida de Just Dance y poder experimentar la visualización del juego](https://youtu.be/a1zQ1xOjZnk "Partida del juego Just Dance")
+[***Haz click aquí para disfrutar de una partida de Just Dance y poder experimentar la visualización del juego***](https://youtu.be/a1zQ1xOjZnk "Partida del juego Just Dance")
 
 Nintendo Wii con el juego Just Dance, entre otros, que nos ayuda a aprender a bailar combinando las nuevas tecnologías con los métodos tradicionales, dotando al juego de unos mandos que transmiten nuestros movimientos a la consola que analiza y puntúa su exactitud, la maraca y nombre del juego son los que hemos usado en casa durante mucho tiempo de ahí mi elección, si bien en el mercado hay varias opciones disponibles.
 

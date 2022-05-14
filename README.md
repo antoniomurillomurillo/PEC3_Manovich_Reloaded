@@ -12,7 +12,10 @@ Manovich nos explica también que nuestra sociedad y cultura contemporáneas  pu
 Cuando hablamos de hibridación tal y como dice Manovichi en su libro “Se puede decir que la hibridación es cuando se agrupan técnicas y formatos de representación de medios físicos y electrónicos anteriores con las nuevas técnicas de manipulación de la información y formatos de datos exclusivos del ordenador para formar nuevas combinaciones”
 La hibridación de medios es una reconfiguración del hábitat de medios, en los medios híbridos los lenguajes de distintos medios se unen, intercambiando propiedades, creando nuevas estructuras e interactuando en sus niveles más profundos, por ejemplo, un texto mantiene su fuente, tamaño, espaciado, pero se enriquece de otras posibilidades expresivas de otros medios. Podemos encontrar medios hibrídos en interfaces de usuario, aplicaciones Web, aplicaciones móviles, diseño visual, diseño interactivo, efectos visuales, medios de geolocalización, ambientes interactivos, arte digital y la cultura digital en todas sus vertientes. 
 
-Los dos ejemplos de hibridación que pensado y el profesor me ha dado el visto bueno, han sido .
+
+Una vez explorado mi entorno y buscando los nuevos modelos híbridos que tengo a mi disposición y otros de los cuales he estado hablando en conversaciones entre amigos he optado por trabajar con Just Dance de Nintendo Wii y los frigoríficos inteligentes, opciones que nos aportan un nuevo medio resultado de unir los elementos tradicionales en mayor o menor medida a los medios digitales que aportan valor y funcionalidades y control a dichos elementos, o parafraseando a Lev Manovich "se unen y dan pie a una nueva gestalts de medios". 
+Los dos ejemplos han consensuados con el profesor.
+
 ### •  Just Dance de Nintendo Wii
 ### •  Frigoríficos inteligentes.
     
@@ -33,7 +36,7 @@ Los dos ejemplos de hibridación que pensado y el profesor me ha dado el visto b
 
 
 
-Una vez explorado mi entorno y buscando los nuevos modelos híbridos que tengo a mi disposición y otros de los cuales he estado hablando en conversaciones entre amigos he optado por trabajar con Just Dance de Nintendo Wii y los frigoríficos inteligentes, opciones que nos aportan un nuevo medio resultado de unir los elementos tradicionales en mayor o menor medida a los medios digitales que aportan valor y funcionalidades y control a dichos elementos, o parafraseando a Lev Manovich "se unen y dan pie a una nueva gestalts de medios". 
+
 
 
 ![](https://img.youtube.com/vi/VtSzAMlHapI/hqdefault.jpg)

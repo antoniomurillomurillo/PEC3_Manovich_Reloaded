@@ -3,6 +3,33 @@
 Antonio Murillo Murillo
 
 
+Introducción
+
+Lev Manovich en su libro “Software toma el mando” nos explica los conceptos de software de los medios y cuales son sus efectos en la práctica, así mismo nos da una Idea general del concepto de medio. Define el software de los medios como un tipo particular de software que permite la creación, publicación, intercambio y clonar fieles reproducciones de imágenes de personajes, lugares o entornos, secuencias de imágenes en movimiento, diseños 3D, textos, mapas, elementos interactivos variados, así como la combinación de ellos. Introduce también el concepto de que el ordenador es un metamedio.
+Manovich nos explica que desde finales de los 70 empezó el cambio que ha hecho que el software se convierta en el motor de las sociedades contemporáneas, estando en el centro de la economía global, la cultura, la vida social y, cada vez más, la política. 
+Manovich nos explica también que nuestra sociedad y cultura contemporáneas  pueden ser vistas como una sociedad y cultura del software.
+
+Cuando hablamos de hibridación tal y como dice Manovichi en su libro “Se puede decir que la hibridación es cuando se agrupan técnicas y formatos de representación de medios físicos y electrónicos anteriores con las nuevas técnicas de manipulación de la información y formatos de datos exclusivos del ordenador para formar nuevas combinaciones”
+La hibridación de medios es una reconfiguración del hábitat de medios, en los medios híbridos los lenguajes de distintos medios se unen, intercambiando propiedades, creando nuevas estructuras e interactuando en sus niveles más profundos, por ejemplo, un texto mantiene su fuente, tamaño, espaciado, pero se enriquece de otras posibilidades expresivas de otros medios. Podemos encontrar medios hibrídos en interfaces de usuario, aplicaciones Web, aplicaciones móviles, diseño visual, diseño interactivo, efectos visuales, medios de geolocalización, ambientes interactivos, arte digital y la cultura digital en todas sus vertientes. 
+
+Los dos ejemplos de hibridación que pensado y el profesor me ha dado el visto bueno, han sido .
+    •  Just Dance de Nintendo Wii
+    •  Frigoríficos inteligentes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Una vez explorado mi entorno y buscando los nuevos modelos híbridos que tengo a mi disposición y otros de los cuales he estado hablando en conversaciones entre amigos he optado por trabajar con Just Dance de Nintendo Wii y los frigoríficos inteligentes, opciones que nos aportan un nuevo medio resultado de unir los elementos tradicionales en mayor o menor medida a los medios digitales que aportan valor y funcionalidades y control a dichos elementos, o parafraseando a Lev Manovich "se unen y dan pie a una nueva gestalts de medios". 
 

@@ -3,7 +3,7 @@
 Antonio Murillo Murillo
 
 
-Introducción
+### Introducción
 
 Lev Manovich en su libro “Software toma el mando” nos explica los conceptos de software de los medios y cuales son sus efectos en la práctica, así mismo nos da una Idea general del concepto de medio. Define el software de los medios como un tipo particular de software que permite la creación, publicación, intercambio y clonar fieles reproducciones de imágenes de personajes, lugares o entornos, secuencias de imágenes en movimiento, diseños 3D, textos, mapas, elementos interactivos variados, así como la combinación de ellos. Introduce también el concepto de que el ordenador es un metamedio.
 Manovich nos explica que desde finales de los 70 empezó el cambio que ha hecho que el software se convierta en el motor de las sociedades contemporáneas, estando en el centro de la economía global, la cultura, la vida social y, cada vez más, la política. 
@@ -13,8 +13,10 @@ Cuando hablamos de hibridación tal y como dice Manovichi en su libro “Se pued
 La hibridación de medios es una reconfiguración del hábitat de medios, en los medios híbridos los lenguajes de distintos medios se unen, intercambiando propiedades, creando nuevas estructuras e interactuando en sus niveles más profundos, por ejemplo, un texto mantiene su fuente, tamaño, espaciado, pero se enriquece de otras posibilidades expresivas de otros medios. Podemos encontrar medios hibrídos en interfaces de usuario, aplicaciones Web, aplicaciones móviles, diseño visual, diseño interactivo, efectos visuales, medios de geolocalización, ambientes interactivos, arte digital y la cultura digital en todas sus vertientes. 
 
 Los dos ejemplos de hibridación que pensado y el profesor me ha dado el visto bueno, han sido .
-    •  Just Dance de Nintendo Wii
-    •  Frigoríficos inteligentes.
+    ###•  Just Dance de Nintendo Wii
+    ###•  Frigoríficos inteligentes.
+    
+    
 
 
 
